@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/M-P-Sullivan/cpsc-213-test-1#readme",
   "dependencies": {
-    "hapi": "^16.1.0"
+    "hapi": "^16.1.0",
+    "nodemon": "^1.11.0"
   }
 }
